@@ -1,0 +1,16 @@
+Software requirements :
+1. Python 3.x IDLE 
+2. Windows OS
+
+3. Library requirements for python :
+a. bs4 library(BeautifulSoup Library)
+b. nltk 
+c. pyFPDF 
+
+Hardware Requirements :
+1. Intel Dual Core and above
+2.Internet Connectivity Recommended
+
+
+
+
